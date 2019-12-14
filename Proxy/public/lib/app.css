@@ -1,0 +1,34 @@
+#mainBody {
+  position: relative;
+  height: 1800px;
+}
+
+#orderFormContainer {
+  position: sticky;
+  left: 950px;
+  top: 50px;
+  width: 385px;
+}
+
+#orderForm {
+  z-index: 100;
+}
+
+#earnings {
+  position: absolute;
+  left: 200px;
+  top: 750px;
+}
+
+#analystRatings {
+  position: absolute;
+  left: 200px;
+  top: 1200px;
+}
+
+#graphContainer {
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+
